@@ -1,4 +1,4 @@
-a=10
-b=12
-c=a+b
-print(c)
+a=input('Enter your name :')
+b=input('Enter your collage:')
+
+print( + a + '! You are studying in ' + b + '.')
